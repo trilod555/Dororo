@@ -1,15 +1,15 @@
 Copyright (c) 2026 trilod555. All Rights Reserved.
 
-1. Original Work & Fan-Made Notice:
-   This project (Doro_pet) is an unofficial, non-commercial fan-made creation. 
-   All original character designs, names, and trademarks (Dorothy / Goddess of 
-   Victory: NIKKE) belong to Shift Up Corp. / Level Infinite and the original 
-   Doro meme creators.
+1. Scope of Protection:
+   This copyright notice applies to the entire repository, including all source code, 
+   files, assets, packages, and releases contained herein, unless explicitly stated otherwise.
 
-2. Creator's Rights:
-   All custom code, modifications, compilations, and original assets created 
-   specifically for this project are the intellectual property of trilod555.
+2. Third-Party & Fan-Made Content Notice:
+   Some projects or files in this repository may be unofficial, non-commercial 
+   fan-made creations (such as Doro / NIKKE). All original trademarks, characters, 
+   and third-party intellectual properties belong to their respective owners.
 
-3. Restrictions:
-   - You may NOT re-upload, redistribute, or claim this project as your own work.
-   - You may NOT sell or use this project or its files for commercial purposes.
+3. Creator's Rights & Restrictions:
+   All original works, custom code, modifications, and compilations created by 
+   trilod555 are protected by copyright. You may NOT re-upload, redistribute, sell, 
+   or claim any files from this repository as your own work without explicit permission.
